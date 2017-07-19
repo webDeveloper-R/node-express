@@ -1,0 +1,13 @@
+{
+  "name": "node-express",
+  "version": "0.0.1",
+  "description": "test project",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
